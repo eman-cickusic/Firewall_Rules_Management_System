@@ -10,3 +10,9 @@ A sophisticated Python-based firewall management toolkit demonstrating advanced 
 - Secure IP validation mechanisms
 
 #### Technical Skills Highlighted
+- Python programming
+- Linux system administration
+- Network security principles
+- Subprocess management
+- Logging and error handling
+- Command-line interface design
