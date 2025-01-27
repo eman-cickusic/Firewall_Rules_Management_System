@@ -16,3 +16,5 @@ A sophisticated Python-based firewall management toolkit demonstrating advanced 
 - Subprocess management
 - Logging and error handling
 - Command-line interface design
+
+### 💻 Technical Architecture
