@@ -8,3 +8,5 @@ A sophisticated Python-based firewall management toolkit demonstrating advanced 
 - Comprehensive traffic analysis
 - Robust logging and configuration tracking
 - Secure IP validation mechanisms
+
+#### Technical Skills Highlighted
